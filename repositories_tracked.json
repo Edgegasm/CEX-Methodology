@@ -1,14 +1,14 @@
 [
     {
-        "currency": "BTC",
+        "currency": "LTC",
         "repos": [
-            "https://github.com/bitcoin/bitcoin"
+            "https://github.com/litecoin-project/litecoin"
         ]
     },
     {
-        "currency": "ETH",
+        "currency": "BTC",
         "repos": [
-            "https://github.com/ethereum/go-ethereum"
+            "https://github.com/bitcoin/bitcoin"
         ]
     },
     {
@@ -18,15 +18,21 @@
         ]
     },
     {
+        "currency": "ETH",
+        "repos": [
+            "https://github.com/ethereum/go-ethereum"
+        ]
+    },
+    {
         "currency": "BCH",
         "repos": [
             "https://github.com/Bitcoin-ABC/bitcoin-abc"
         ]
     },
     {
-        "currency": "ADA",
+        "currency": "BSV",
         "repos": [
-            "https://github.com/input-output-hk/cardano-sl"
+            "https://github.com/bitcoin-sv/bitcoin-sv"
         ]
     },
     {
@@ -36,33 +42,21 @@
         ]
     },
     {
-        "currency": "NEO",
-        "repos": [
-            "https://github.com/neo-project/neo"
-        ]
-    },
-    {
-        "currency": "LTC",
-        "repos": [
-            "https://github.com/litecoin-project/litecoin"
-        ]
-    },
-    {
         "currency": "EOS",
         "repos": [
             "https://github.com/EOSIO/eos"
         ]
     },
     {
-        "currency": "XEM",
-        "repos": [
-            "https://github.com/NemProject/nem.core"
-        ]
-    },
-    {
         "currency": "IOTA",
         "repos": [
             "https://github.com/iotaledger/wallet"
+        ]
+    },
+    {
+        "currency": "XEM",
+        "repos": [
+            "https://github.com/NemProject/nem.core"
         ]
     },
     {
@@ -78,15 +72,9 @@
         ]
     },
     {
-        "currency": "TRX",
+        "currency": "LSK",
         "repos": [
-            "https://github.com/tronprotocol/java-tron"
-        ]
-    },
-    {
-        "currency": "ETC",
-        "repos": [
-            "https://github.com/ethereumproject/go-ethereum"
+            "https://github.com/LiskHQ/lisk"
         ]
     },
     {
@@ -102,9 +90,33 @@
         ]
     },
     {
-        "currency": "LSK",
+        "currency": "ZEC",
         "repos": [
-            "https://github.com/LiskHQ/lisk"
+            "https://github.com/zcash/zcash"
+        ]
+    },
+    {
+        "currency": "ETC",
+        "repos": [
+            "https://github.com/ethereumproject/go-ethereum"
+        ]
+    },
+    {
+        "currency": "TRX",
+        "repos": [
+            "https://github.com/tronprotocol/java-tron"
+        ]
+    },
+    {
+        "currency": "NEO",
+        "repos": [
+            "https://github.com/neo-project/neo"
+        ]
+    },
+    {
+        "currency": "ADA",
+        "repos": [
+            "https://github.com/input-output-hk/cardano-sl"
         ]
     },
     {
@@ -114,9 +126,9 @@
         ]
     },
     {
-        "currency": "ZEC",
+        "currency": "DOGE",
         "repos": [
-            "https://github.com/zcash/zcash"
+            "https://github.com/dogecoin/dogecoin"
         ]
     }
 ]
