@@ -111,6 +111,17 @@
         "currency": "NEO",
         "repos": [
             "https://github.com/neo-project/neo"
+            "https://github.com/neo-project/neo-vm"
+            "https://github.com/neo-project/neo-cli"
+            "https://github.com/neo-project/neo-gui"
+            "https://github.com/cityofzion/neo-python"
+            "https://github.com/CityOfZion/neo-python-core"
+            "https://github.com/CityOfZion/neo-go"
+            "https://github.com/CityOfZion/neon-js"
+            "https://github.com/O3Labs/o3-dapi"
+            "https://github.com/NeoResearch/neo-tests"
+            "https://github.com/NeoResearch/neocompiler-eco"
+            "https://github.com/neow3j/neow3j"
         ]
     },
     {
